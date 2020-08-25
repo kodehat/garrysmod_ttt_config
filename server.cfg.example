@@ -22,11 +22,11 @@ ttt_round_limit "8"
 ttt_time_limit_minutes "45"
 
 // [ Role Percentages ]
-ttt_traitor_pct "0.4"
-ttt_traitor_max "3"
-ttt_detective_pct "0.18"
-ttt_detective_max "2"
-ttt_detective_min_players "6"
+// ttt_traitor_pct "0.4"
+// ttt_traitor_max "3"
+// ttt_detective_pct "0.18"
+// ttt_detective_max "2"
+// ttt_detective_min_players "6"
 
 // [ Prep and Postround Additions ]
 ttt_postround_dm "1"
@@ -43,9 +43,9 @@ ttt_karma_low_ban_minutes "5"
 ttt_karma_persist "1"
 
 // [ Credits ]
-ttt_credits_detectivekill "1"
-ttt_det_credits_traitorkill "1"
-ttt_det_credits_traitordead "0"
+// ttt_credits_detectivekill "1"
+// ttt_det_credits_traitorkill "1"
+// ttt_det_credits_traitordead "0"
 
 // [ Miscellaneous ]
 ttt_spec_prop_control "0"

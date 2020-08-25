@@ -15,10 +15,10 @@ sv_region "255"
 sv_voiceenable "0"
 
 // [ Round Time/Amount ]
-ttt_preptime_seconds "20"
+ttt_preptime_seconds "30"
 ttt_posttime_seconds "15"
 
-ttt_round_limit "8"
+ttt_round_limit "10"
 ttt_time_limit_minutes "45"
 
 // [ Role Percentages ]

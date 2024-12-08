@@ -30,7 +30,7 @@ ttt_time_limit_minutes "45"
 
 // [ Prep and Postround Additions ]
 ttt_postround_dm "1"
-ttt_no_nade_throw_during_prep "1"
+ttt_nade_throw_during_prep "0"
 
 // [ Karma ]
 // Karma is enabled to prevent too many random kills.
